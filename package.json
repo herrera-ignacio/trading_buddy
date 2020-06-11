@@ -1,0 +1,25 @@
+{
+  "name": "trading_buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "env-cmd nodemon src/trading-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrera-ignacio/trading_buddy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herrera-ignacio/trading_buddy/issues"
+  },
+  "homepage": "https://github.com/herrera-ignacio/trading_buddy#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "env-cmd": "^10.1.0",
+    "node-binance-api": "^0.11.6"
+  }
+}
