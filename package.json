@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/herrera-ignacio/trading_buddy#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "env-cmd": "^10.1.0",
     "node-binance-api": "^0.11.6"
   }
